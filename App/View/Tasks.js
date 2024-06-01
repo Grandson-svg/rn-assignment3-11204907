@@ -34,13 +34,6 @@ const categories = [
     task: 3,
     image: require("../assets/Medita.jpg"),
   },
-
-  {
-    id: "6",
-    task: 13,
-    title: "Sleep",
-    image: require("../assets/sleep.jpg"),
-  },
   {
     id: "7",
     task: 24,
