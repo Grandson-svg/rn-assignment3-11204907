@@ -1,8 +1,9 @@
-> Why do I have a folder named ".expo" in my project?
-The ".expo" folder is created when an Expo project is started using "expo start" command.
-> What do the files contain?
-- "devices.json": contains information about devices that have recently opened this project. This is used to populate the "Development sessions" list in your development builds.
-- "settings.json": contains the server configuration that is used to serve the application manifest.
-> Should I commit the ".expo" folder?
-No, you should not share the ".expo" folder. It does not contain any information that is relevant for other developers working on the project, it is specific to your machine.
-Upon project creation, the ".expo" folder is already added to your ".gitignore" file.
+![Screenshot of My Application](gg.png)
+![Screenshot of My Application](kk.png)
+
+## Description
+View, Text, ScrollView, TextInput, Stylesheet, Button, FlatList, and Image. The component displays a scrollable list of images and text using a FlatList inside a ScrollView, with a TextInput at the top for user input and a Button at the bottom for performing some action. The styles are defined using the Stylesheet API.
+
+## Student ID
+
+My student ID is 11204907
