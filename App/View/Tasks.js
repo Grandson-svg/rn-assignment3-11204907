@@ -34,10 +34,7 @@ const categories = [
     task: 3,
     image: require("../assets/Medita.jpg"),
   },
-  { id: "5", 
-  title: "Paint",
-  task:  10,
-    image: require("../assets/Paint.jpg") },
+
   {
     id: "6",
     task: 13,
@@ -50,18 +47,7 @@ const categories = [
     title: "Travel",
     image: require("../assets/Travel.jpg"),
   },
-  {
-    id: "8",
-    title: "Health",
-    task: 14,
-    image: require("../assets/Health.jpg"),
-  },
-  {
-    id: "9",
-    title: "Cook",
-    task: 9,
-    image: require("../assets/cook.jpg"),
-  },
+ 
   {
     id: "10",
     title: "Code",
