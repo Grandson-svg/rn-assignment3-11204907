@@ -28,7 +28,8 @@ const categories = [
   title: "Movies",
   task: 19,
   image: require("../assets/th.jpeg") },
- 
+
+
  
  
 
