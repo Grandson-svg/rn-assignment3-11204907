@@ -28,25 +28,10 @@ const categories = [
   title: "Movies",
   task: 19,
   image: require("../assets/AA.jpg") },
-  {
-    id: "4",
-    title: "Meditate",
-    task: 3,
-    image: require("../assets/Medita.jpg"),
-  },
-  {
-    id: "7",
-    task: 24,
-    title: "Travel",
-    image: require("../assets/Travel.jpg"),
-  },
  
-  {
-    id: "10",
-    title: "Code",
-    task: 8,
-    image: require("../assets/code.jpg"),
-  },
+ 
+ 
+
 ];
 
 const tasks = [
@@ -57,14 +42,14 @@ const tasks = [
   { id: "5", title: "Machine Learning" },
   { id: "6", title: "Artificial Intelligence" },
   { id: "7", title: "Digital Marketing" },
-  { id: "8", title: "Content Writing" },
+  { id: "8", title: "  Mobile app developing" },
   { id: "9", title: "Video Editing" },
   { id: "10", title: "Photography" },
-  { id: "11", title: "Scripture Haul" },
+  { id: "11", title: "Frontend developer" },
   { id: "12", title: "Game Development" },
   { id: "13", title: "Animation" },
-  { id: "14", title: "Film Making" },
-  { id: "15", title: "Cake Baking" },
+  { id: "14", title: "Backend developer" },
+  { id: "15", title: "Data scientist" },
 ];
 
 const Tasks = () => {
