@@ -6,8 +6,8 @@ const SearchBar = ({ name, taskCount }) => {
   return (
     <View style={styles.container}>
       <Text style={styles.greeting}>Hello , Devs {name}</Text>
-      <Text style={styles.taskCount}>15 tasks today</Text>
-      <Image source={require('../assets/mic.png')} style={styles.icon} />
+      <Text style={styles.taskCount}>12 tasks today</Text>
+      <Image source={require('../assets/drake.png')} style={styles.icon} />
     </View>
   );
 };
